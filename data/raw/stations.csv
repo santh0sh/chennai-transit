@@ -1,0 +1,70 @@
+id,name,mode,lat,lon,coordSource
+MSB,Chennai Beach,rail,13.0958,80.2906,approx
+MSF,Chennai Fort,rail,13.0822,80.2872,approx
+MPK,Chennai Park,rail,13.0807537,80.2730879,osm
+MS,Chennai Egmore,rail,13.0777493,80.2612572,osm
+MSC,Chetpet,rail,13.0743424,80.242421,osm
+NBK,Nungambakkam,rail,13.065841,80.232839,osm
+MKK,Kodambakkam,rail,13.0516624,80.2306892,osm
+MBM,Mambalam,rail,13.0380662,80.2277752,osm
+SP,Saidapet,rail,13.0233098,80.2237191,osm
+GDY,Guindy,rail,13.0086685,80.2126063,osm
+STM,St. Thomas Mount,rail,12.9947654,80.1993715,osm
+PZA,Palavanthangal,rail,12.9906385,80.1879401,osm
+MN,Meenambakkam,rail,12.9846976,80.1750925,osm
+TLM,Tirusulam,rail,12.9804609,80.1657933,osm
+PV,Pallavaram,rail,12.9675742,80.1520504,osm
+CMP,Chromepet,rail,12.9521897,80.1411677,osm
+TBMS,Tambaram Sanatorium,rail,12.9369591,80.1307034,osm
+TBM,Tambaram,rail,12.9257923,80.1179194,osm
+PRGL,Perungalathur,rail,12.9052432,80.095046,osm
+VDR,Vandalur,rail,12.8916061,80.084974,osm
+UPK,Urappakkam,rail,12.8673657,80.0720222,osm
+GVN,Guduvancheri,rail,12.8452303,80.0576503,osm
+POT,Potheri,rail,12.8207567,80.0368745,osm
+KTM,Kattangulathur,rail,12.8055581,80.0266339,osm
+MMN,Maraimalai Nagar,rail,12.7964824,80.0201706,osm
+SKL,Singaperumal Koil,rail,12.7619226,80.0007799,osm
+PRN,Paranur,rail,12.7301201,79.9839631,osm
+CGL,Chengalpattu Jn,rail,12.6934,79.9760,approx
+WND,Wimco Nagar Depot,metro,13.1839706,80.3089939,osm
+WMN,Wimco Nagar,metro,13.1792903,80.3073435,osm
+TVT,Thiruvottriyur,metro,13.1718028,80.3052689,osm
+TTH,Thiruvottiyur Theradi,metro,13.1602152,80.3024483,osm
+KLD,Kaladipet,metro,13.1506672,80.2993928,osm
+TLG,Tollgate,metro,13.1431344,80.2963291,osm
+NWP,New Washermanpet,metro,13.1345195,80.2930011,osm
+TDP,Tondiarpet,metro,13.1245276,80.2888557,osm
+STC,Sir Theagaraya College,metro,13.1157545,80.2847439,osm
+WSP,Washermanpet,metro,13.1078469,80.280949,osm
+MND,Mannadi,metro,13.0954465,80.2861312,osm
+HGC,High Court,metro,13.0872681,80.2849845,osm
+CEN,Puratchi Thalaivar Dr. M.G. Ramachandran Central,metro,13.0817254,80.273916,osm
+GVE,Government Estate,metro,13.0696345,80.2730362,osm
+LIC,LIC,metro,13.0643716,80.2658465,osm
+THL,Thousand Lights,metro,13.0585155,80.2587833,osm
+AGD,AG-DMS,metro,13.0458852,80.2482846,osm
+TNP,Teynampet,metro,13.0368003,80.2464194,osm
+NDN,Nandanam,metro,13.0317092,80.2411957,osm
+SDP,Saidapet Metro,metro,13.0239952,80.2281244,osm
+LTM,Little Mount,metro,13.0146634,80.2241669,osm
+GDM,Guindy Metro,metro,13.0092746,80.2130846,osm
+ALD,Arignar Anna Alandur,metro,13.0042558,80.2014525,osm
+NGR,OTA - Nanganallur Road,metro,12.9998798,80.1940099,osm
+MBK,Meenambakkam Metro,metro,12.9876728,80.1764787,osm
+APT,Chennai International Airport,metro,12.9808092,80.1642026,osm
+EGM,Egmore Metro,metro,13.0802807,80.2630546,osm
+NHP,Nehru Park,metro,13.0787841,80.250473,osm
+KLP,Kilpauk Medical College,metro,13.0776371,80.2426191,osm
+PCC,Pachaiyappa's College,metro,13.0755466,80.2328522,osm
+SHN,Shenoy Nagar,metro,13.0790,80.2250,approx
+ANE,Anna Nagar East,metro,13.0848,80.2184,approx
+ANT,Anna Nagar Tower,metro,13.0852,80.2092,approx
+TMG,Thirumangalam,metro,13.0847,80.2015,approx
+KYB,Koyambedu,metro,13.0734496,80.1948363,osm
+CMB,CMBT,metro,13.0685197,80.2039836,osm
+ARB,Arumbakkam,metro,13.0616746,80.2116557,osm
+VDP,Vadapalani,metro,13.0509367,80.212065,osm
+ASN,Ashok Nagar,metro,13.0354768,80.2111075,osm
+EKT,Ekkattuthangal,metro,13.0169222,80.2054236,osm
+STMM,St. Thomas Mount Metro,metro,12.995044,80.1983746,osm
