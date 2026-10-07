@@ -1,0 +1,33 @@
+# Cumulative minutes between stations, read from the Southern Railway Chennai Beach - Tambaram - Chengalpattu
+# sheet (older official sheet, used ONLY for relative spacing; each published trip is scaled to its own
+# published Beach/Tambaram/Chengalpattu times).
+segment,stationId,minutes
+MSB-TBM,MSB,0
+MSB-TBM,MSF,4
+MSB-TBM,MPK,7
+MSB-TBM,MS,10
+MSB-TBM,MSC,13
+MSB-TBM,NBK,16
+MSB-TBM,MKK,18
+MSB-TBM,MBM,20
+MSB-TBM,SP,23
+MSB-TBM,GDY,26
+MSB-TBM,STM,29
+MSB-TBM,PZA,32
+MSB-TBM,MN,35
+MSB-TBM,TLM,37
+MSB-TBM,PV,40
+MSB-TBM,CMP,43
+MSB-TBM,TBMS,46
+MSB-TBM,TBM,55
+TBM-CGL,TBM,0
+TBM-CGL,PRGL,6
+TBM-CGL,VDR,9
+TBM-CGL,UPK,13
+TBM-CGL,GVN,17
+TBM-CGL,POT,21
+TBM-CGL,KTM,24
+TBM-CGL,MMN,26
+TBM-CGL,SKL,31
+TBM-CGL,PRN,36
+TBM-CGL,CGL,45
