@@ -1,0 +1,4 @@
+service,name,color,stations
+BLUE,Blue Line (Wimco Nagar Depot - Airport),#2f6fdb,WND WMN TVT TTH KLD TLG NWP TDP STC WSP MND HGC CEN GVE LIC THL AGD TNP NDN SDP LTM GDM ALD NGR MBK APT
+GREEN,Green Line (Central - St. Thomas Mount),#2e9e5b,CEN EGM NHP KLP PCC SHN ANE ANT TMG KYB CMB ARB VDP ASN EKT ALD STMM
+INTER,"Inter-corridor (Central - Airport via Egmore, CMBT, Alandur)",#8a63d2,CEN EGM NHP KLP PCC SHN ANE ANT TMG KYB CMB ARB VDP ASN EKT ALD NGR MBK APT
